@@ -1,0 +1,9 @@
+Django==5.1
+pandas
+numpy
+pyspark
+scikit-learn
+joblib
+django-ninja
+fastapi
+uvicorn
